@@ -1,3 +1,17 @@
 {
-  "xsf1re": "https://repo.xsf1re.kr/"
+  "xsf1re": "https://repo.xsf1re.kr/",
+  "kritanta": "https://repo.kritanta.me/",
+  "bigboss": "http://apt.thebigboss.org/repofiles/cydia/",
+  "unlimapps": "http://beta.unlimapps.com/",
+  "limneos": "https://limneos.net/repo/",
+  "modmyi": "http://apt.modmyi.com/",
+  "dynastic": "https://repo.dynastic.co/",
+  "nullpixel": "https://repo.nullpixel.uk/",
+  "reddestdream": "https://reddestdream.github.io/",
+  "alfhaily": "https://apt.alfhaily.me/",
+  "coolstar": "https://coolstar.org/publicrepo/",
+  "xbmc": "https://mirrors.xbmc.org/apt/ios/",
+  "packix": "https://repo.packix.com/",
+  "apptapp": "http://apptapp.me/repo/",
+  "chariz": "https://repo.chariz.com/"
 }
