@@ -13,5 +13,6 @@
   "xbmc": "https://mirrors.xbmc.org/apt/ios/",
   "packix": "https://repo.packix.com/",
   "apptapp": "http://apptapp.me/repo/",
-  "chariz": "https://repo.chariz.com/"
+  "chariz": "https://repo.chariz.com/",
+  "sparkdev": "https://sparkdev.me/"
 }
